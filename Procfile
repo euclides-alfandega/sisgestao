@@ -1,0 +1,1 @@
+web: gunicorn sistemagestaoproject. --log-file -
